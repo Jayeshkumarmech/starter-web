@@ -20,3 +20,7 @@ this will fill all the stages so lets get started
 ## Copyright
 
 This is 2022 copyright notice
+
+##How to contribute
+
+Please check the repo and pull or push the request
