@@ -5,7 +5,14 @@ This repository is for showing how Git and GitHub work
 ## Deployment 
 This to show the difference between the various stages of git
 
+##Main
+
+this helps in understanding the difftool we configured
 
 ## Purpose
 
 Sample website with plenty of files for demos
+
+##Conclusion 
+
+this will fill all the stages so lets get started
