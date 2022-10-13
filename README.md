@@ -22,7 +22,7 @@ this will fill all the stages so lets get started
 
 ## Copyright
 
-This is 2022 copyright notice
+This is 2022 copyright notice. All rights reserved.
 
 ##How to contribute
 
