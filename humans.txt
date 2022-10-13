@@ -7,7 +7,7 @@
 
 # THANKS
 
-    Thanks for json for teaching git in a polite manner
+    Thanks for json for teaching git in a polite manner and have a awesome day.
 
 # TECHNOLOGY COLOPHON
 
