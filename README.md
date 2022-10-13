@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work 
 Adding a line for rebasing example
+Another line for rebasing example.
 
 ## Deployment 
 This to show the difference between the various stages of git
